@@ -1,0 +1,68 @@
+button {
+  background-color: #008000;
+  width: 250px;
+  height: 50px;
+  font-size: 30px;
+  font-family: Arial;
+  color: white;
+  border-radius: 25px;
+  border-style: hidden;
+}
+
+.Title {
+  font-size: 50px;
+  font-family: "Times New Roman";
+  margin-bottom: 0px;
+}
+
+.Price {
+  color: #3b973b;
+  font-size: xx-large;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  font-weight: bolder;
+}
+
+s {
+  color: #737373;
+  font-size: small;
+}
+
+.pTag {
+  width: 400px;
+  margin-bottom: 10px;
+  font-family: "Times New Roman";
+  margin-top: 10px;
+}
+
+#Description {
+  margin-top: 2px;
+}
+
+article {
+  margin-left: 40px;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 25px;
+  width: 600px;
+}
+
+html {
+  background-color: #d3d3d3;
+}
+
+img {
+  /* margin-left: 400px; */
+  width: 150px;
+  float: right;
+  vertical-align: middle;
+}
+
+h2 {
+  margin: 0px;
+}
+
+#chair {
+  width: 140px;
+}
